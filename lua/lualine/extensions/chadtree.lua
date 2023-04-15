@@ -6,6 +6,6 @@ local M = {}
 
 M.sections = vim.deepcopy(nerdtree.sections)
 
-M.filetypes = {'CHADTree'}
+M.filetypes = { 'CHADTree' }
 
 return M
